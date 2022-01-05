@@ -1,4 +1,6 @@
-### Hi there 👋
+Hi there 👋
+I am Atharva
+🌱 I’m currently a Computer Engineering undergrad and I'm trying to improve my skills as a programmer.
 
 <!--
 **atharvabhide/atharvabhide** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
