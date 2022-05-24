@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h3>Reach me at <a href="atharvabhide91@gmail.com">atharvabhide91@gmail.com</a></h3>
+<h3>Reach me at <a href="mailto:atharvabhide91@gmail.com">atharvabhide91@gmail.com</a></h3>
 
 <br>
 
