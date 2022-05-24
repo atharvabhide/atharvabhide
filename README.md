@@ -20,9 +20,7 @@ Here are some ideas to get you started:
 -->
 <h3>Reach me at <a href="mailto:atharvabhide91@gmail.com">atharvabhide91@gmail.com</a></h3>
 
-<br>
-
-<h3>Currently learning <strong>Machine Learning</strong> </h3>
+<h3>Currently exploring <strong>Machine Learning</strong> </h3>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=atharvabhide&show_icons=true&locale=en&theme=gotham" alt="atharvabhide" /></p>
 <br>
