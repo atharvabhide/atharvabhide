@@ -18,3 +18,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+![Atharva's GitHub stats](https://github-readme-stats.vercel.app/api?username=atharvabhide&show_icons=true&theme=chartreuse-dark)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=atharvabhide&theme=chartreuse-dark&langs_count=8)](https://github.com/atharvabhide/github-readme-stats)
