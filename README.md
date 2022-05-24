@@ -2,8 +2,6 @@ Hi there 👋
 
 I'm Atharva
 
-Here are some ideas to get you started:
-
 - 🌱 I’m currently exploring Machine Learning!
 - 👯 I’m looking to collaborate on Frontend as well as Data Analysis projects!
 
