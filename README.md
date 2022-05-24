@@ -1,6 +1,6 @@
 Hi there 👋
 
-I am Atharva
+I'm Atharva
 
 🌱 I’m currently a Computer Engineering undergrad and I'm trying to improve my skills as a programmer.
 
