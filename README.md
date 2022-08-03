@@ -1,6 +1,6 @@
 Hi there 👋
 
-I'm Atharva![](https://komarev.com/ghpvc/?username=atharvabhide)
+I'm Atharva
 
 - 🌱 I’m currently exploring Machine Learning!
 - 👯 I’m looking to collaborate on Frontend as well as Data Analysis projects!
@@ -11,3 +11,7 @@ I'm Atharva![](https://komarev.com/ghpvc/?username=atharvabhide)
 <br>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=atharvabhide&show_icons=true&locale=en&layout=compact&theme=gotham" alt="atharvabhide" /></p>
+
+
+
+![](https://komarev.com/ghpvc/?username=atharvabhide)
