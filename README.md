@@ -12,5 +12,5 @@ I'm Atharva
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=atharvabhide&show_icons=true&locale=en&layout=compact&theme=gotham" alt="atharvabhide" /></p>
 
-
+<br>
 ![](https://komarev.com/ghpvc/?username=atharvabhide)
