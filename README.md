@@ -1,6 +1,5 @@
-![](https://komarev.com/ghpvc/?username=atharvabhide)
 Hi there 👋
-
+![](https://komarev.com/ghpvc/?username=atharvabhide)
 I'm Atharva
 
 - 🌱 I’m currently exploring Machine Learning!
