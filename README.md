@@ -2,8 +2,8 @@ Hi there 👋
 
 I'm Atharva
 
-- 🌱 I’m currently exploring Machine Learning!
-- 👯 I’m looking to collaborate on Frontend as well as Data Analysis projects!
+- 🌱 I’m currently exploring Machine Learning and Deep Learning!
+- 👯 I’m looking to collaborate on Frontend as well as Machine Learning projects!
 
 <h3>Reach me at <a href="mailto:atharvabhide91@gmail.com">atharvabhide91@gmail.com</a></h3>
 
