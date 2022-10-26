@@ -1,4 +1,4 @@
-<center><h1 style="margin-left:50%;">Hi there 👋</h1></center>
+<center><h1 style="padding-left:50%;">Hi there 👋</h1></center>
 
 I'm Atharva
 
