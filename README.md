@@ -1,4 +1,4 @@
-<center> # Hi there 👋</center>
+# Hi there 👋
 
 I'm Atharva
 
