@@ -14,4 +14,4 @@ I'm Atharva
 
 
 
-https://github-readme-stats.vercel.app/api?username=[atharvabhide]
+![Atharva's Github Stats](https://github-readme-stats.vercel.app/api?username=[atharvabhide])
