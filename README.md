@@ -6,6 +6,3 @@ I'm Atharva
 - 👯 I’m looking to collaborate on Deep Learning as well as Frontend Development projects!
 
 <h3>Reach me at <a href="mailto:atharvabhide91@gmail.com">atharvabhide91@gmail.com</a></h3>
-
-
-![Atharva's Github Stats](https://github-readme-stats.vercel.app/api?username=[atharvabhide]&show_icons=true&theme=radical)
