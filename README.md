@@ -7,11 +7,5 @@ I'm Atharva
 
 <h3>Reach me at <a href="mailto:atharvabhide91@gmail.com">atharvabhide91@gmail.com</a></h3>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=atharvabhide&show_icons=true&locale=en&theme=gotham" alt="atharvabhide" /></p>
-<br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=atharvabhide&show_icons=true&locale=en&layout=compact&theme=gotham" alt="atharvabhide" /></p>
-
-
-
-![Atharva's Github Stats](https://github-readme-stats.vercel.app/api?username=[atharvabhide])
+![Atharva's Github Stats](https://github-readme-stats.vercel.app/api?username=[atharvabhide]&show_icons=true&theme=radical)
