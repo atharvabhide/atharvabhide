@@ -14,4 +14,4 @@ I'm Atharva
 
 
 
-![](https://komarev.com/ghpvc/?username=atharvabhide)
+https://github-readme-stats.vercel.app/api?username=[atharvabhide]
