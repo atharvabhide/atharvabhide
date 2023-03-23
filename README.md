@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Atharva Bhide</h1>
 <h3 align="center">A Deep Learning and Backend Development enthusiast from Pune,India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=atharvabhide&label=Profile%20views&color=0e75b6&style=flat" alt="atharvabhide" /> </p>
-
 - 🌱 I’m currently learning **Backend Development and Deep Learning**
 
 - 💬 Ask me about **Machine Learning, Deep Learning, Python**
