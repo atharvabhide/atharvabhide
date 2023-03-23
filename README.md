@@ -3,15 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=atharvabhide&label=Profile%20views&color=0e75b6&style=flat" alt="atharvabhide" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=atharvabhide" alt="atharvabhide" /></a> </p>
-
 - 🌱 I’m currently learning **Backend Development and Deep Learning**
 
 - 💬 Ask me about **Machine Learning, Deep Learning, Python**
 
 - 📫 How to reach me **atharvabhide91@gmail.com**
 
-- 📄 Know about my experiences [shorturl.at/cfyIW](shorturl.at/cfyIW)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1tXz3YrSAyBofQDCgs3Q3HWmDJQT4lzli/view?usp=sharing](Resume)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
