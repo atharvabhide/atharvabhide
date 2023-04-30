@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Atharva Bhide</h1>
-<h3 align="center">A Deep Learning and Backend Development enthusiast from Pune,India</h3>
+<h3 align="center">A Deep Learning and Backend Dev enthusiast from Pune,India</h3>
 
 - 🌱 I’m currently learning **Backend Development and Deep Learning**
 
