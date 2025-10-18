@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Atharva Bhide</h1>
 <h3 align="center">Software Engineer | .NET Core | React | Microservices | Event-Driven Systems | AI Automation</h3>
 
-- 💼 Software Engineer building distributed systems and frontends.  
-- ⚙️ Experienced in designing and developing **microservices, MFEs, and event-driven architectures** using **.NET Core, React, MassTransit, RabbitMQ, and Redis**.   
-- 🧩 Strong in **EF Core, Dapper, SQL Server, and Sybase**, following **Vertical Slice Architecture** and design patterns for scalable, maintainable systems.  
-- 🔍 Experienced with **Docker, Rancher, Octopus Deploy, and ELK stack** for CI/CD, container orchestration, and observability.  
-- 🧠 Passionate about clean architecture, SOLID principles, and system design for scalable enterprise applications.  
-- 🌱 Working on **LLMs, LangChain, and intelligent backend systems**.  
-- 📫 Reach me at **atharvabhide91@gmail.com**  
+- Software Engineer building distributed systems and frontends.  
+- Experienced in designing and developing **microservices, MFEs, and event-driven architectures** using **.NET Core, React, MassTransit, RabbitMQ, and Redis**.   
+- Strong in **EF Core, Dapper, SQL Server, and Sybase**, following **Vertical Slice Architecture** and design patterns for scalable, maintainable systems.  
+- Experienced with **Docker, Rancher, Octopus Deploy, and ELK stack** for CI/CD, container orchestration, and observability.  
+- Passionate about clean architecture, SOLID principles, and system design for scalable enterprise applications.  
+- Working on **LLMs, LangChain, and intelligent backend systems**.  
+- Reach me at **atharvabhide91@gmail.com**  
 
 ---
 
